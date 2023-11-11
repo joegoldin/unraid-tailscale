@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # VERSION SHOULD BE IN ENV
 TSFILE=tailscale_${VERSION}_amd64.tgz
